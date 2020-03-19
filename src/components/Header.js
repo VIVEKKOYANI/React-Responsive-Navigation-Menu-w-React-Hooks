@@ -70,7 +70,7 @@ export default function Header() {
             </nav>
                 </CSSTransition>
         <button onClick={toggleNav} className="Burger">
-        
+        🍔
       </button>
         </header>
     );
